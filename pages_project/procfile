@@ -1,0 +1,1 @@
+ gunicorn pag9=8es_project.wsgi --log-file -
